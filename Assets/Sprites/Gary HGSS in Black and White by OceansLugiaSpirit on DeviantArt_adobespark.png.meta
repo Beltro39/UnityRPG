@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 52626ce37e8a7f580869294b63ea549e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1262236182008700329
+    second: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_0
+  - first:
+      213: -5629099408854882255
+    second: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_1
+  - first:
+      213: -4836337868303570711
+    second: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_2
+  - first:
+      213: -6485792242286834630
+    second: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_3
+  - first:
+      213: -5735246032264846661
+    second: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_4
+  - first:
+      213: -859909009785727895
+    second: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_5
+  - first:
+      213: -7003328157851209528
+    second: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_6
+  - first:
+      213: 4285146086793397613
+    second: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_7
+  - first:
+      213: 5927305009236268425
+    second: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_8
+  - first:
+      213: 6105781392745996709
+    second: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_9
+  - first:
+      213: -4790438878982939498
+    second: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_10
+  - first:
+      213: -6242406031213567306
+    second: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_11
+  - first:
+      213: -2713986952632602324
+    second: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_12
+  - first:
+      213: -3657017203140020435
+    second: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_13
+  - first:
+      213: 7460688962133992418
+    second: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_14
+  - first:
+      213: 8004816658898754240
+    second: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad1643be1d548110800000000000000
+      internalID: 1262236182008700329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138e7d179eb61e1b0800000000000000
+      internalID: -5629099408854882255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8eef13550e1ecb0800000000000000
+      internalID: -4836337868303570711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c428f9156ddf5a0800000000000000
+      internalID: -6485792242286834630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2a26bce105860b0800000000000000
+      internalID: -5735246032264846661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9645094cf4df014f0800000000000000
+      internalID: -859909009785727895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0b9c9452e2fce90800000000000000
+      internalID: -7003328157851209528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65c9f989a5e77b30800000000000000
+      internalID: 4285146086793397613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985dbee6084024250800000000000000
+      internalID: 5927305009236268425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1a0dea3d71cb450800000000000000
+      internalID: 6105781392745996709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c500c6831f48db0800000000000000
+      internalID: -4790438878982939498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b262cdc9c48e59a0800000000000000
+      internalID: -6242406031213567306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21f943fe3bf55ad0800000000000000
+      internalID: -2713986952632602324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27b85dba3aaf3dc0800000000000000
+      internalID: -3657017203140020435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3aca72511b98760800000000000000
+      internalID: 7460688962133992418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gary HGSS in Black and White by OceansLugiaSpirit on DeviantArt_adobespark_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca1ac50752d61f60800000000000000
+      internalID: 8004816658898754240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
